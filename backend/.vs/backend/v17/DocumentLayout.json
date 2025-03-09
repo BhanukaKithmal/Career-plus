@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\careerPlus\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|e:\\careerplus\\backend\\backend\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|solutionrelative:backend\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|e:\\careerplus\\backend\\backend\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|solutionrelative:backend\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|e:\\careerplus\\backend\\backend\\core\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|solutionrelative:backend\\core\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|e:\\careerplus\\backend\\backend\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|solutionrelative:backend\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|e:\\careerplus\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|e:\\careerplus\\backend\\backend\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|solutionrelative:backend\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|e:\\careerplus\\backend\\backend\\core\\dtos\\candidate\\candidategetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|solutionrelative:backend\\core\\dtos\\candidate\\candidategetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|e:\\careerplus\\backend\\backend\\core\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|solutionrelative:backend\\core\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|e:\\careerplus\\backend\\backend\\core\\dtos\\candidate\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|solutionrelative:backend\\core\\dtos\\candidate\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|e:\\careerplus\\backend\\backend\\core\\automapperconfig\\automapperconfigprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|solutionrelative:backend\\core\\automapperconfig\\automapperconfigprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|e:\\careerplus\\backend\\backend\\core\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|solutionrelative:backend\\core\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|e:\\careerplus\\backend\\backend\\core\\dtos\\job\\jobcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|solutionrelative:backend\\core\\dtos\\job\\jobcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|e:\\careerplus\\backend\\backend\\core\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|solutionrelative:backend\\core\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|e:\\careerplus\\backend\\backend\\core\\dtos\\company\\companycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|solutionrelative:backend\\core\\dtos\\company\\companycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|e:\\careerplus\\backend\\backend\\core\\dtos\\job\\jobgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|solutionrelative:backend\\core\\dtos\\job\\jobgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|e:\\careerplus\\backend\\backend\\core\\dtos\\company\\companygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E92B4A-28B0-4611-B426-16EBDB843883}|backend\\backend.csproj|solutionrelative:backend\\core\\dtos\\company\\companygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CandidateGetDto.cs",
+              "DocumentMoniker": "E:\\careerPlus\\backend\\backend\\Core\\Dtos\\Candidate\\CandidateGetDto.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\Dtos\\Candidate\\CandidateGetDto.cs",
+              "ToolTip": "E:\\careerPlus\\backend\\backend\\Core\\Dtos\\Candidate\\CandidateGetDto.cs",
+              "RelativeToolTip": "backend\\Core\\Dtos\\Candidate\\CandidateGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:47:41.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "E:\\careerPlus\\backend\\backend\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CompanyController.cs",
+              "ToolTip": "E:\\careerPlus\\backend\\backend\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCoAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:03:35.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "E:\\careerPlus\\backend\\backend\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\JobController.cs",
+              "ToolTip": "E:\\careerPlus\\backend\\backend\\Controllers\\JobController.cs",
+              "RelativeToolTip": "backend\\Controllers\\JobController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:11:16.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\careerPlus\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "E:\\careerPlus\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:34:32.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "E:\\careerPlus\\backend\\backend\\Core\\Context\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\Context\\ApplicationDBContext.cs",
+              "ToolTip": "E:\\careerPlus\\backend\\backend\\Core\\Context\\ApplicationDBContext.cs",
+              "RelativeToolTip": "backend\\Core\\Context\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:03:22.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CandidateCreateDto.cs",
+              "DocumentMoniker": "E:\\careerPlus\\backend\\backend\\Core\\Dtos\\Candidate\\CandidateCreateDto.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\Dtos\\Candidate\\CandidateCreateDto.cs",
+              "ToolTip": "E:\\careerPlus\\backend\\backend\\Core\\Dtos\\Candidate\\CandidateCreateDto.cs",
+              "RelativeToolTip": "backend\\Core\\Dtos\\Candidate\\CandidateCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:47:16.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoMapperConfigProfile.cs",
+              "DocumentMoniker": "E:\\careerPlus\\backend\\backend\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "ToolTip": "E:\\careerPlus\\backend\\backend\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "RelativeToolTip": "backend\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:28:37.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "E:\\careerPlus\\backend\\backend\\Core\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\Entities\\Company.cs",
+              "ToolTip": "E:\\careerPlus\\backend\\backend\\Core\\Entities\\Company.cs",
+              "RelativeToolTip": "backend\\Core\\Entities\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:08:07.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\careerPlus\\backend\\backend\\Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "E:\\careerPlus\\backend\\backend\\Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "backend\\Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:25:29.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "E:\\careerPlus\\backend\\backend\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CandidateController.cs",
+              "ToolTip": "E:\\careerPlus\\backend\\backend\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CandidateController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAkwFMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:59:29.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "E:\\careerPlus\\backend\\backend\\Core\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\Entities\\Candidate.cs",
+              "ToolTip": "E:\\careerPlus\\backend\\backend\\Core\\Entities\\Candidate.cs",
+              "RelativeToolTip": "backend\\Core\\Entities\\Candidate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:46:36.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobCreateDto.cs",
+              "DocumentMoniker": "E:\\careerPlus\\backend\\backend\\Core\\Dtos\\Job\\JobCreateDto.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\Dtos\\Job\\JobCreateDto.cs",
+              "ToolTip": "E:\\careerPlus\\backend\\backend\\Core\\Dtos\\Job\\JobCreateDto.cs",
+              "RelativeToolTip": "backend\\Core\\Dtos\\Job\\JobCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:21:07.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Job.cs",
+              "DocumentMoniker": "E:\\careerPlus\\backend\\backend\\Core\\Entities\\Job.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\Entities\\Job.cs",
+              "ToolTip": "E:\\careerPlus\\backend\\backend\\Core\\Entities\\Job.cs",
+              "RelativeToolTip": "backend\\Core\\Entities\\Job.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:23:16.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompanyCreateDto.cs",
+              "DocumentMoniker": "E:\\careerPlus\\backend\\backend\\Core\\Dtos\\Company\\CompanyCreateDto.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\Dtos\\Company\\CompanyCreateDto.cs",
+              "ToolTip": "E:\\careerPlus\\backend\\backend\\Core\\Dtos\\Company\\CompanyCreateDto.cs",
+              "RelativeToolTip": "backend\\Core\\Dtos\\Company\\CompanyCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:59:08.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JobGetDto.cs",
+              "DocumentMoniker": "E:\\careerPlus\\backend\\backend\\Core\\Dtos\\Job\\JobGetDto.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\Dtos\\Job\\JobGetDto.cs",
+              "ToolTip": "E:\\careerPlus\\backend\\backend\\Core\\Dtos\\Job\\JobGetDto.cs",
+              "RelativeToolTip": "backend\\Core\\Dtos\\Job\\JobGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:21:24.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CompanyGetDto.cs",
+              "DocumentMoniker": "E:\\careerPlus\\backend\\backend\\Core\\Dtos\\Company\\CompanyGetDto.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\Dtos\\Company\\CompanyGetDto.cs",
+              "ToolTip": "E:\\careerPlus\\backend\\backend\\Core\\Dtos\\Company\\CompanyGetDto.cs",
+              "RelativeToolTip": "backend\\Core\\Dtos\\Company\\CompanyGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:07:14.875Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
